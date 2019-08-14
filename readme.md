@@ -1,7 +1,14 @@
 # Simple Git UI
 
-This is an experimental project.
 <img src="https://user-images.githubusercontent.com/33022876/62998841-b99baa00-be92-11e9-8f54-f3b5a623bd1a.jpg" width="80%">
+
+> This is an experimental project.
+
+----
+## Intro
+
+It'd be easy to check git data at local with softwares. But it's **not** that easy to check git data on a web server without installing a bunch of tools.That's why I made this simple git UI to view git commits and branches.
+
 ----
 
 ## Installation
