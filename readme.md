@@ -1,7 +1,7 @@
 # Simple Git UI
 
 This is an experimental project.
-
+<img src="https://user-images.githubusercontent.com/33022876/62998841-b99baa00-be92-11e9-8f54-f3b5a623bd1a.jpg" width="80%">
 ----
 
 ## Installation
