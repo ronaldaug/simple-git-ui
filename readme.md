@@ -7,7 +7,7 @@
 ----
 ## Intro
 
-It'd be easy to check git data at local with softwares. But it's **not** that easy to check git data on a web server without installing a bunch of tools.That's why I made this simple git UI to view git commits and branches.
+Sometimes, it's easy to check git data at local with apps. But it's **not** that easy to check git data on a web server without installing a bunch of tools.That's why I made this simple git UI to view git commits and branches.
 
 ----
 
